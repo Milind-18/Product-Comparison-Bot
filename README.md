@@ -10,6 +10,12 @@ This project demonstrates the power of **multi-agent workflows** using CrewAI co
 
 ---
 
+## 📺 Demo
+🎥 Watch the project in action here: **[Video Demonstration](https://www.linkedin.com/posts/milind18_artificialintelligence-crewai-openai-activity-7359841540560551936-4S5M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoI60UBrS2KNfgvG3Lo2Rhxa5Mzp4mti2w)**
+
+
+---
+
 ## ✨ Features
 - Takes **two product names** as input
 - Fetches real-time product details via web search
