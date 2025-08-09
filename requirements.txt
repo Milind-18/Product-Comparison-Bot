@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+openai
+gradio
+load_dotenv
+
+
